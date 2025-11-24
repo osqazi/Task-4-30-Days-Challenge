@@ -26,7 +26,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("📚 AI-Powered Quiz Generator")
+st.title("📚 AI-Powered Quiz Generator by Owais Qazi - Friday 6pm to 9pm")
 st.markdown("Upload a PDF, get a summary, and generate custom quizzes instantly!")
 
 # --- PDF Upload and Processing ---
