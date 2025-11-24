@@ -13,7 +13,7 @@ if "extracted_text" not in st.session_state:
 if "pdf_processed" not in st.session_state:
     st.session_state.pdf_processed = False
 
-st.set_page_config(layout="wide", page_title="AI-Powered Quiz Generator")
+st.set_page_config(layout="wide", page_title="AI-Powered Quiz Generator by Owais Qazi - Friday 6pm to 9pm")
 
 st.markdown(
     """
